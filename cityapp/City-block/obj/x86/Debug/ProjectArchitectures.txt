@@ -1,4 +1,0 @@
-C:\Users\Afaque\Documents\City-block\cityapp\City-block\City-block.csproj;x86
-C:\Users\Afaque\Documents\City-block\cityapp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
-C:\Users\Afaque\Documents\City-block\cityapp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
-C:\Users\Afaque\Documents\City-block\cityapp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
